@@ -16,6 +16,7 @@ ChromaEase is a **lightweight and high-performance tweening library for .NET**, 
 - High-performance runner for consistent updates
 - Compatible with **WinForms**, **WPF**, and console applications
 - Minimal dependencies, lightweight and efficient
+- ChromaEase internally uses a powerful runner to update tweens consistently over time.
 
 ---
 
@@ -60,11 +61,14 @@ ChromaEase.CreateColorTween(
 
 - The last parameter is the duration in seconds.
 
+### WARNING 
+> All ####easing functions receive a normalized value `t` between 0 and 1
+
 ---
 
 ## 📚 Documentation
 
-For detailed examples, API reference, and advanced usage, visit the [GitHub repository](https://github.com/scop9-dev/ChromaEase)
+For detailed examples, API reference, and advanced usage, visit the [Help Folder](https://github.com/scop9-dev/ChromaEase/help)
 
 ---
 
