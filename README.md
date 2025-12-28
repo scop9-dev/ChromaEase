@@ -41,7 +41,7 @@ using ChromaEase;
 using System.Drawing;
 
 // Tween a float value
-ChromaEase.CreateTween(
+ChromaEase.Tweener.CreateTween(
     v => Console.WriteLine($"Progress: {v}"), 
     0, 100, 2.0f
 );
