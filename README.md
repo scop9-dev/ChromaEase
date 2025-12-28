@@ -68,7 +68,7 @@ For detailed examples, API reference, and advanced usage, visit the [GitHub repo
 
 ---
 
-## 🔧 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -86,13 +86,13 @@ Please make sure your code follows the C# naming conventions and include tests f
 
 ---
 
-## 🛡 License
+## License
 
 ChromaEase is open source under the [Apache 2.0 License](https://github.com/scop9-dev/ChromaEase/blob/main/LICENSE)
 
 ---
 
-## 📞 Contact
+## Contact
 
 Created and maintained by scop9-dev
 
