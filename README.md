@@ -47,7 +47,7 @@ ChromaEase.Tweener.CreateTween(
 );
 
 // Tween a color value
-ChromaEase.CreateColorTween(
+ChromaEase.Tweener.CreateColorTween(
     c => Console.WriteLine($"Color: {c}"), 
     Color.Red, Color.Blue, 2.0f
 );
