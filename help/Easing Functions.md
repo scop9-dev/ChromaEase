@@ -16,7 +16,7 @@ All easing functions take a normalized value `t` between `0` and `1` and return 
 ### Example
 
 ```csharp
-ChromaEase.CreateTween(
+ChromaEase.Tweener.CreateTween(
     value => Console.WriteLine(value),
     0f,
     1f,
