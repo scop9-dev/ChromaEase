@@ -9,6 +9,6 @@ This folder contains the core classes and utilities, including:
 - `Easing` – built-in easing functions  
 - Internal runner and tween classes  
 
-If you have any questions, issues, or suggestions, please check the [NuGet Issues discussions](https://github.com/scop9-dev/ChromaEase/discussions) or open a new discussion.  
+If you have any questions, issues, or suggestions, please check the [NuGet Issues discussions](https://github.com/scop9-dev/ChromaEase/discussions) 
 
 Happy coding! 
