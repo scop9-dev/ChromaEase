@@ -62,7 +62,7 @@ ChromaEase.CreateColorTween(
 - The last parameter is the duration in seconds.
 
 ### WARNING 
-> All ####easing functions receive a normalized value `t` between 0 and 1
+> All **EASING** (ChromaEase.Easing) functions receive a normalized value `t` between 0 and 1
 
 ---
 
