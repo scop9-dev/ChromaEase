@@ -68,7 +68,7 @@ ChromaEase.CreateColorTween(
 
 ## 📚 Documentation
 
-For detailed examples, API reference, and advanced usage, visit the [Help Folder](https://github.com/scop9-dev/ChromaEase/help)
+For detailed examples, API reference, and advanced usage, visit the [Help Folder](https://github.com/scop9-dev/ChromaEase/blob/main/help)
 
 ---
 
