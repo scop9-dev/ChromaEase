@@ -88,7 +88,7 @@ Please make sure your code follows the C# naming conventions and include tests f
 
 ## 🛡 License
 
-ChromaEase is open source under the [Apache 2.0 License](https://github.com/scop9-dev/ChromaEase/LICENSE)
+ChromaEase is open source under the [Apache 2.0 License](https://github.com/scop9-dev/ChromaEase/LICENSE.md)
 
 ---
 
